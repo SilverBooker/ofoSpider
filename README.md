@@ -15,6 +15,8 @@ derekhe写的爬虫也没办法使用了，于是参考了derekhe的代码。
 
 如果这个程序帮助到了你，请动动手指，给个Star！
 ```
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/SilverBooker/ofoSpider.svg)](https://starchart.cc/SilverBooker/ofoSpider)
 
 该爬虫为ofo附近单车爬虫
 * 新增ofo注册机
