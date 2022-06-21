@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # ofoSpider/spider.py: 7
-numpy == 1.15.4
+numpy == 1.22.0
 
 # ofoSpider/spider.py: 6
 pandas == 0.24.1
