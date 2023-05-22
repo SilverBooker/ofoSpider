@@ -9,7 +9,7 @@ pandas == 0.24.1
 
 # ofoRegister/rk.py: 4
 # ofoSpider/spider.py: 1,11
-requests == 2.21.0
+requests == 2.31.0
 
 # ofoSpider/spider.py: 12
 requests-toolbelt == 0.9.1
